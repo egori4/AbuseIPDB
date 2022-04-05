@@ -5,7 +5,7 @@ import csv
 
 raw_data_path = "./Raw Data/"
 report_path = "./Report/"
-api_key = '1331ffc49bbd5c9f4ebdbea55e0e8c3f98e91fa8a43cb6c675c3f5ba324fbb3f790db5849fe84131'
+api_key = 'xxxxx' # Set your API key. To obtain the API key, register to https://www.abuseipdb.com/. API key can be found under https://www.abuseipdb.com/account/api
 
 if not os.path.exists('./Raw Data'):
 	os.makedirs('./Raw Data')
